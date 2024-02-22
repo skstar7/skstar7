@@ -3,6 +3,11 @@
 
 - ![Profile Views](https://komarev.com/ghpvc/?username=skstar7)
 
+- Connect me
+[LinkedIn Logo]: (https://www.linkedin.com/in/skstar/)
+[Instagram Logo]: (https://www.instagram.com/skstar_786/)
+
+
 - 🏢 Institue list ...
 -    1.Kongasabati Sishu Vidyalaya
 -    2.K.G. Engineering Institute
